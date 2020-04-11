@@ -13,13 +13,20 @@ Answer: There is no output because does not have a main method.
 ```
 3.	List ALL the following items based on the Triangle class:
 ```
-Answer: 
-a) object
-- 
+    a) object
+tri
+```
 b) user-defined methods with return value
-- 
+```
+getHeight(), getBase(), getArea(),
+```
 c) user-defined methods with passing-parameters 
--
-
+```
+setHeight(double len), setBase(double b), set(double len, double b)
+```
 d) accessor methods
+```
+
+```
 e) mutator methods
+```
