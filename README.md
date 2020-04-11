@@ -18,15 +18,16 @@ tri
 ```
 b) user-defined methods with return value
 ```
-getHeight(), getBase(), getArea(),
+getHeight(), getBase(), getArea()
 ```
 c) user-defined methods with passing-parameters 
 ```
 setHeight(double len), setBase(double b), set(double len, double b)
 ```
-d) accessor methods
+d) accessor (getter) methods
 ```
-
+getHeight(), getBase(), getArea()
 ```
-e) mutator methods
+e) mutator (setter) methods
 ```
+setHeight(double len), setBase(double b), set(double len, double b)
