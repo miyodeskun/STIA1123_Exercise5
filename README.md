@@ -14,7 +14,7 @@ Answer: There is no output because does not have a main method.
 3.	List ALL the following items based on the Triangle class:
 ```
     a) object
-tri
+x
 ```
 b) user-defined methods with return value
 ```
